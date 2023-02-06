@@ -7987,36 +7987,3 @@ li {
     margin-bottom: 20px;
     border-radius: 30px;
 }
-
-/*--------------------------------------------------------------
-# Portfolio Two
---------------------------------------------------------------*/
-.portfolio-two {
-    position: relative;
-    display: block;
-    padding: 0 0 30px;
-}
-
-.portfolio-two .section-title {
-    margin-bottom: 42px;
-}
-
-.portfolio-two__carousel {
-    position: relative;
-    display: block;
-    max-width: 360px;
-    width: 50%;
-}
-
-.portfolio-two__carousel.owl-carousel .owl-stage-outer {
-    overflow: visible;
-    padding: 0px 0px 0px;
-}
-
-body.locked {
-    overflow: hidden;
-}
-
-.logo-mobile {
-    width: 50%;
-}
